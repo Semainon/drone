@@ -3,15 +3,6 @@
 ## Навигация
 **По категориям:** [Основные понятия и технологии](#основные-понятия-и-технологии) | [Аппаратные компоненты и датчики](#аппаратные-компоненты-и-датчики) | [Программное обеспечение и протоколы](#программное-обеспечение-и-протоколы) | [Режимы полета и управление](#режимы-полета-и-управление) | [Параметры и настройки](#параметры-и-настройки)
 
-**По терминам:**
-**A-E:** [Acro](#acro) | [AHRS_EKF_TYPE](#ahrsefktype) | [AltHold](#althold) | [ArduPilot](#ardupilot) | [Барометр](#барометр) | [Дрифт](#дрифт) | [EK3_SRC1_POSXY](#ek3src1posxy) | [EK3_SRC1_POSZ](#ek3src1posz) | [EK3_SRC1_VELXY](#ek3src1velxy) | [EKF](#ekf) | [EKF3](#ekf3) | [ExternalNav](#externalnav)
-**F-G:** [FlowHold](#flowhold) | [GNSS](#gnss) | [GNSS-denied](#gnss-denied) | [Guided_NoGPS](#guidednogps) | [GUIDED Mode](#guided-mode)
-**H-L:** [HereFlow](#hereflow) | [Intel RealSense T265](#intel-realsense-t265) | [IR-LOCK](#ir-lock) | [LIDAR](#lidar) | [LOITER/PosHold](#loiterposhold) | [Luxonis OAK-D](#luxonis-oak-d)
-**M-O:** [MAVLink](#mavlink) | [Marvelmind](#marvelmind) | [MatekSys 3901-L0X](#mateksys-3901-l0x) | [Non-GPS Navigation](#non-gps-navigation) | [ODOMETRY message](#odometry-message) | [Odometer/Odometry](#odometerodometry) | [Optical Flow](#optical-flow) | [Optical Flow Sensor](#optical-flow-sensor) | [ORIGIN](#origin)
-**P-S:** [Полетный контроллер](#полетный-контроллер) | [RTL](#rtl) | [SLAM](#slam) | [Stabilize](#stabilize) | [Surface Tracking](#surface-tracking) | [Сенсорный фьюжен](#сенсорный-фьюжен)
-**T-V:** [Траектория подъема и спуска](#траектория-подъема-и-спуска) | [UWB](#uwb) | [VIO](#vio) | [Висит в точке](#висит-в-точке) | [Датчик высоты (Rangefinder)](#датчик-высоты-rangefinder) | [Инерциальный измерительный блок (IMU)](#инерциальный-измерительный-блок-imu) | [Companion Computer (CC)](#companion-computer-cc)
----
-
 ### **Основные понятия и технологии**
 *   **GNSS (Global Navigation Satellite System)**: Глобальная навигационная спутниковая система (GPS, ГЛОНАСС и т.д.). Основной источник глобального позиционирования.
 *   **GNSS-denied**: Условия, при которых сигнал GNSS отсутствует, ослаблен или преднамеренно заглушен (помещения, тоннели, под лесом, городская застройка).
