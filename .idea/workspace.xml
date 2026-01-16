@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11b08960-7649-4097-8335-4c6aec70c55e" name="Default Changelist" comment="" />
+    <list default="true" id="11b08960-7649-4097-8335-4c6aec70c55e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/development_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/development_task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/implementation_plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/implementation_plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/problem_statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/problem_statement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prototype_components.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/prototype_components.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +70,11 @@
       <workItem from="1766515470704" duration="1255000" />
       <workItem from="1766517289151" duration="1037000" />
       <workItem from="1766519347005" duration="358000" />
-      <workItem from="1766528008941" duration="1230000" />
+      <workItem from="1766528008941" duration="2045000" />
+      <workItem from="1768582121875" duration="461000" />
+      <workItem from="1768588938332" duration="337000" />
+      <workItem from="1768589663705" duration="1790000" />
+      <workItem from="1768591479545" duration="334000" />
     </task>
     <servers />
   </component>
