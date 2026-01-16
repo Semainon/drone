@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11b08960-7649-4097-8335-4c6aec70c55e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/architecture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/development_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/development_task.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/implementation_plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/implementation_plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/problem_statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/problem_statement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/prototype_components.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/prototype_components.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +27,7 @@
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -74,7 +68,10 @@
       <workItem from="1768582121875" duration="461000" />
       <workItem from="1768588938332" duration="337000" />
       <workItem from="1768589663705" duration="1790000" />
-      <workItem from="1768591479545" duration="334000" />
+      <workItem from="1768591479545" duration="2047000" />
+      <workItem from="1768593549079" duration="1625000" />
+      <workItem from="1768596190734" duration="1249000" />
+      <workItem from="1768599717850" duration="1238000" />
     </task>
     <servers />
   </component>
